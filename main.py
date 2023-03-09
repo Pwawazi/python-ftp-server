@@ -4,7 +4,7 @@ from twisted.internet import reactor
 from twisted.protocols.ftp import FTPFactory, FTPRealm
 
 checker = InMemoryUsernamePasswordDatabaseDontUse()
-checker.addUser("philip", "231231ZI")
+checker.addUser("Inferno", "abcde")
 checker.addUser("Dante", "12345")
 checker.addUser("Abigail", "12345")
 
