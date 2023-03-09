@@ -1,0 +1,3 @@
+Ola!
+
+This is some file 2.
